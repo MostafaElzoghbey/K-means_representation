@@ -2,7 +2,7 @@
 
 This is representation for K-means algorithm.
 
-## installation
+## Installation
 
 - clone the repository
 - check that matplotlib library is installed
