@@ -6,4 +6,4 @@ This is representation for K-means algorithm.
 
 - Clone the repository.
 - Check that matplotlib library is installed.
-- Run K-means.py.
+- Run K-means.py file.
